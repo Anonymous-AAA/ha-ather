@@ -4,9 +4,9 @@
   "codeowners": ["@Anonymous-AAA"],
   "config_flow": true,
   "dependencies": [],
+  "documentation": "https://github.com/Anonymous-AAA/ha-ather/blob/main/README.md",
   "iot_class": "cloud_push",
-  "requirements": [],
-  "version": "0.0.1",
   "issue_tracker":"https://github.com/Anonymous-AAA/ha-ather/issues",
-  "documentation": "https://github.com/Anonymous-AAA/ha-ather/blob/main/README.md"
+  "requirements": [],
+  "version": "0.0.1"
 }
