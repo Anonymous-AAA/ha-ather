@@ -85,4 +85,4 @@ This integration utilizes a centralized Data Update Coordinator to manage downst
 
 * 🧠 **`__init__.py`**: Discovers hardware properties (Model/Registration) and coordinates data across all sensor platforms using recursive dictionary deep-merging.
 * 🌐 **`api.py`**: Manages the persistent network connection layer, token authentication, `Set-Cookie` persistence headers, and regular WebSocket heartbeat intervals.
-* 🎛️ **`sensor.py` / `binary_sensor.py` / `device_tracker.py**`: Maps incoming telemetry keys directly to individual frontend device state nodes.
+* 🎛️ **`sensor.py` / `binary_sensor.py` / `device_tracker.py`**: Maps incoming telemetry keys directly to individual frontend device state nodes.
