@@ -1,3 +1,12 @@
+> 🛑 **PROJECT DEPRECATED AND ARCHIVED** 🛑
+> 
+> Thank you to everyone who checked out and used this project! I have decided to archive this repository because I have found a more robust, actively maintained alternative within the community. 
+> 
+> **If you are looking to integrate your Ather scooter with Home Assistant, please use the following project instead:**
+> 
+> 👉 **[NoobPratik/ather-home-assistant](https://github.com/NoobPratik/ather-home-assistant)**
+>
+> *No further updates, bug fixes, or support will be provided for this repository. The code and documentation below are preserved strictly for historical and educational purposes.*
 
 ---
 
